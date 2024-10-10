@@ -1,0 +1,11 @@
+D:\Blazor Project\BlazorISInventoryManageSystem\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Blazor Project\BlazorISInventoryManageSystem\Domain\bin\Debug\net8.0\Domain.dll
+D:\Blazor Project\BlazorISInventoryManageSystem\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Blazor Project\BlazorISInventoryManageSystem\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blazor Project\BlazorISInventoryManageSystem\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Blazor Project\BlazorISInventoryManageSystem\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Blazor Project\BlazorISInventoryManageSystem\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Blazor Project\BlazorISInventoryManageSystem\Domain\obj\Debug\net8.0\Domain.dll
+D:\Blazor Project\BlazorISInventoryManageSystem\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Blazor Project\BlazorISInventoryManageSystem\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Blazor Project\BlazorISInventoryManageSystem\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -1,0 +1,17 @@
+D:\Blazor Project\BlazorISInventoryManageSystem\Infracture\bin\Debug\net8.0\Infracstructure.deps.json
+D:\Blazor Project\BlazorISInventoryManageSystem\Infracture\bin\Debug\net8.0\Infracstructure.dll
+D:\Blazor Project\BlazorISInventoryManageSystem\Infracture\bin\Debug\net8.0\Infracstructure.pdb
+D:\Blazor Project\BlazorISInventoryManageSystem\Infracture\bin\Debug\net8.0\Application.dll
+D:\Blazor Project\BlazorISInventoryManageSystem\Infracture\bin\Debug\net8.0\Domain.dll
+D:\Blazor Project\BlazorISInventoryManageSystem\Infracture\bin\Debug\net8.0\Application.pdb
+D:\Blazor Project\BlazorISInventoryManageSystem\Infracture\bin\Debug\net8.0\Domain.pdb
+D:\Blazor Project\BlazorISInventoryManageSystem\Infracture\obj\Debug\net8.0\Infracstructure.csproj.AssemblyReference.cache
+D:\Blazor Project\BlazorISInventoryManageSystem\Infracture\obj\Debug\net8.0\Infracstructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blazor Project\BlazorISInventoryManageSystem\Infracture\obj\Debug\net8.0\Infracstructure.AssemblyInfoInputs.cache
+D:\Blazor Project\BlazorISInventoryManageSystem\Infracture\obj\Debug\net8.0\Infracstructure.AssemblyInfo.cs
+D:\Blazor Project\BlazorISInventoryManageSystem\Infracture\obj\Debug\net8.0\Infracstructure.csproj.CoreCompileInputs.cache
+D:\Blazor Project\BlazorISInventoryManageSystem\Infracture\obj\Debug\net8.0\Infracst.321E1627.Up2Date
+D:\Blazor Project\BlazorISInventoryManageSystem\Infracture\obj\Debug\net8.0\Infracstructure.dll
+D:\Blazor Project\BlazorISInventoryManageSystem\Infracture\obj\Debug\net8.0\refint\Infracstructure.dll
+D:\Blazor Project\BlazorISInventoryManageSystem\Infracture\obj\Debug\net8.0\Infracstructure.pdb
+D:\Blazor Project\BlazorISInventoryManageSystem\Infracture\obj\Debug\net8.0\ref\Infracstructure.dll

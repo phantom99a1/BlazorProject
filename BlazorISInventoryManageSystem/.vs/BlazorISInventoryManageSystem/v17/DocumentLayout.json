@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Blazor Project\\BlazorISInventoryManageSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E32AF555-27FE-4A69-9323-A883D20B9739}|Application\\Application.csproj|d:\\blazor project\\blazorisinventorymanagesystem\\application\\service\\identity\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32AF555-27FE-4A69-9323-A883D20B9739}|Application\\Application.csproj|solutionrelative:application\\service\\identity\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E32AF555-27FE-4A69-9323-A883D20B9739}|Application\\Application.csproj|d:\\blazor project\\blazorisinventorymanagesystem\\application\\interface\\identity\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32AF555-27FE-4A69-9323-A883D20B9739}|Application\\Application.csproj|solutionrelative:application\\interface\\identity\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F995A5CC-A625-4354-AE4B-2263D71F9E5E}|Infracture\\Infracstructure.csproj|d:\\blazor project\\blazorisinventorymanagesystem\\infracture\\repository\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F995A5CC-A625-4354-AE4B-2263D71F9E5E}|Infracture\\Infracstructure.csproj|solutionrelative:infracture\\repository\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F995A5CC-A625-4354-AE4B-2263D71F9E5E}|Infracture\\Infracstructure.csproj|d:\\blazor project\\blazorisinventorymanagesystem\\infracture\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F995A5CC-A625-4354-AE4B-2263D71F9E5E}|Infracture\\Infracstructure.csproj|solutionrelative:infracture\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\Blazor Project\\BlazorISInventoryManageSystem\\Application\\Service\\Identity\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\Identity\\IAccountService.cs",
+              "ToolTip": "D:\\Blazor Project\\BlazorISInventoryManageSystem\\Application\\Service\\Identity\\IAccountService.cs",
+              "RelativeToolTip": "Application\\Service\\Identity\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:50:40.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "D:\\Blazor Project\\BlazorISInventoryManageSystem\\Infracture\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "Infracture\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "D:\\Blazor Project\\BlazorISInventoryManageSystem\\Infracture\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "Infracture\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:43:05.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "D:\\Blazor Project\\BlazorISInventoryManageSystem\\Application\\Interface\\Identity\\IAccount.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\Identity\\IAccount.cs",
+              "ToolTip": "D:\\Blazor Project\\BlazorISInventoryManageSystem\\Application\\Interface\\Identity\\IAccount.cs",
+              "RelativeToolTip": "Application\\Interface\\Identity\\IAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:03:44.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Blazor Project\\BlazorISInventoryManageSystem\\Infracture\\Repository\\Account.cs",
+              "RelativeDocumentMoniker": "Infracture\\Repository\\Account.cs",
+              "ToolTip": "D:\\Blazor Project\\BlazorISInventoryManageSystem\\Infracture\\Repository\\Account.cs",
+              "RelativeToolTip": "Infracture\\Repository\\Account.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAJAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:09:34.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
